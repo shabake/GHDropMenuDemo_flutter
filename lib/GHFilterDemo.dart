@@ -98,6 +98,7 @@ class _GHFilterDemoState extends State<GHFilterDemo> {
     this._minPriceTextEditingController.text = "";
     this._maxPriceTextEditingController.text = "";
     this._seletecdList.clear();
+    this._seletecdString = "";
   }
 
   _clickSure() {

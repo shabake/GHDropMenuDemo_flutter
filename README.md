@@ -1,16 +1,13 @@
 # gh_dropmenudemo
 
-A new Flutter project.
+Flutter版:sunny::sunny: 仿京东/美团电商筛选菜单 电商筛选菜单 电商通用筛选菜单
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+一个仿京东的侧滑筛选菜单，Dart语言编写。
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Untitled.gif](https://upload-images.jianshu.io/upload_images/1419035-648a8d0d6db3e910.gif?imageMogr2/auto-orient/strip)
+
+如果对你有帮助，请点一个Star
