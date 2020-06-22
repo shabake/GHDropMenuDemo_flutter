@@ -101,6 +101,8 @@ class _GHFilterDemoState extends State<GHFilterDemo> {
     this._seletecdString = "";
   }
 
+  /// 点击确定
+
   _clickSure() {
     if ((this._seletecdList != null && this._seletecdList.length > 0) ||
         this._minPriceTextEditingController.text.length > 0 ||
