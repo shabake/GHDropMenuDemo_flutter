@@ -33,6 +33,7 @@ git clone https://github.com/shabake/GHDropMenuDemo_flutter.git
 ```
 cd 项目路径
 flutter run
-
 ```
+
 ### 本demo仅做学习交流,不可作为商业用途，最后demo如果对你有帮助，帮忙点一个Star。如有任何问题，欢迎打扰45329453@qq.com
+---
