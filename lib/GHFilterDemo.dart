@@ -762,7 +762,6 @@ class _GHFilterDemoState extends State<GHFilterDemo> {
                   maxLength: 30,
                   cursorColor: Color.fromRGBO(170, 170, 170, 1),
                   onChanged: (value) {
-//                        this._keywors = value;
                   },
                   style: TextStyle(fontSize: 14),
                   autofocus: false,
@@ -809,9 +808,7 @@ class _GHFilterDemoState extends State<GHFilterDemo> {
     return GestureDetector(
         behavior: HitTestBehavior.opaque,
         onTap: () {
-          Navigator.pushNamed(context, '/GHGoodsDetails',arguments: {
-            'id':goodsItemModel.objectId,
-          });
+
         },
         child: Container(
           padding: EdgeInsets.all(10),
@@ -998,7 +995,6 @@ class _GHFilterDemoState extends State<GHFilterDemo> {
   Widget build(BuildContext context) {
     ScreenAdaper.init(context);
     return Scaffold(
-
       /// 侧滑筛选
         endDrawer: this._endDrawer(),
 
