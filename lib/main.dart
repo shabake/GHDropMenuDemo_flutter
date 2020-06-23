@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'GHFilterDemo.dart';
 
-
 void main() => runApp(MyApp());
 
 
