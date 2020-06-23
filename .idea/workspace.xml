@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16bdc4fb-08d2-4510-9648-9a4776f4da3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/services/ScreenAdaper.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/services/httptool.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/GHFilterDemo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/GHFilterDemo.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="16bdc4fb-08d2-4510-9648-9a4776f4da3a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/GHFilterDemo.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+            <state relative-caret-position="237">
+              <caret line="504" column="48" selection-start-line="504" selection-start-column="48" selection-end-line="504" selection-end-column="48" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
                 <element signature="e#940#955#0" />
@@ -121,16 +113,8 @@
                 <element signature="e#13163#13479#0" />
                 <element signature="e#13324#13456#0" />
                 <element signature="e#13396#13431#0" />
-                <element signature="e#13554#14657#0" />
                 <element signature="e#13626#13630#0" />
-                <element signature="e#13662#14646#0" />
-                <element signature="e#13719#13934#0" />
                 <element signature="e#13752#13933#0" />
-                <element signature="e#13959#14619#0" />
-                <element signature="e#13990#14602#0" />
-                <element signature="e#14208#14563#0" />
-                <element signature="e#14248#14540#0" />
-                <element signature="e#14287#14515#0" />
                 <element signature="e#14713#14762#0" />
                 <element signature="e#14796#14906#0" />
                 <element signature="e#14942#15178#0" />
@@ -411,7 +395,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23032904" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23032904" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -419,7 +403,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.28280255" />
-      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.34140128" />
+      <window_info anchor="bottom" id="Run" order="1" visible="true" weight="0.34140128" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" order="4" />
@@ -502,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/GHFilterDemo.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+        <state relative-caret-position="237">
+          <caret line="504" column="48" selection-start-line="504" selection-start-column="48" selection-end-line="504" selection-end-column="48" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
             <element signature="e#940#955#0" />
@@ -593,16 +577,8 @@
             <element signature="e#13163#13479#0" />
             <element signature="e#13324#13456#0" />
             <element signature="e#13396#13431#0" />
-            <element signature="e#13554#14657#0" />
             <element signature="e#13626#13630#0" />
-            <element signature="e#13662#14646#0" />
-            <element signature="e#13719#13934#0" />
             <element signature="e#13752#13933#0" />
-            <element signature="e#13959#14619#0" />
-            <element signature="e#13990#14602#0" />
-            <element signature="e#14208#14563#0" />
-            <element signature="e#14248#14540#0" />
-            <element signature="e#14287#14515#0" />
             <element signature="e#14713#14762#0" />
             <element signature="e#14796#14906#0" />
             <element signature="e#14942#15178#0" />
