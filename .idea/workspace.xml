@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16bdc4fb-08d2-4510-9648-9a4776f4da3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="16bdc4fb-08d2-4510-9648-9a4776f4da3a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +22,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/GHFilterDemo.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="1014" lean-forward="true" selection-start-line="1014" selection-end-line="1014" />
+            <state relative-caret-position="-2064">
+              <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
               <folding>
                 <element signature="e#515#658#0" />
-                <element signature="e#713#33336#0" />
                 <element signature="e#994#1009#0" />
                 <element signature="e#1372#1482#1" />
                 <element signature="e#1488#1603#1" />
@@ -505,11 +502,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/GHFilterDemo.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="1014" lean-forward="true" selection-start-line="1014" selection-end-line="1014" />
+        <state relative-caret-position="-2064">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
           <folding>
             <element signature="e#515#658#0" />
-            <element signature="e#713#33336#0" />
             <element signature="e#994#1009#0" />
             <element signature="e#1372#1482#1" />
             <element signature="e#1488#1603#1" />

@@ -18,9 +18,7 @@ Android Studio 3.4.1
 
 ```
 
-先看效果
-
-![image.png](https://upload-images.jianshu.io/upload_images/1419035-1b3057664ecdfe7e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)
+![12.jpg](https://upload-images.jianshu.io/upload_images/1419035-8c2916025006a751.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 安装方法
 
