@@ -15,7 +15,6 @@ Dart 2.7.2
 Xcode 11.5
 
 Android Studio 3.4.1
-
 ```
 
 ![12.jpg](https://upload-images.jianshu.io/upload_images/1419035-8c2916025006a751.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
