@@ -16,8 +16,7 @@ Xcode 11.5
 
 Android Studio 3.4.1
 ```
-
-![12.jpg](https://upload-images.jianshu.io/upload_images/1419035-c11eb5a30b927571.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![筛选.jpg](https://upload-images.jianshu.io/upload_images/1419035-66b9318a0eb419b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ### 安装方法
