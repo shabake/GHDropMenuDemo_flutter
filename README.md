@@ -5,6 +5,7 @@
 
 **一个仿京东的侧滑筛选菜单，Dart语言编写**
 
+[想要OC版筛选菜单,点击这里](https://github.com/shabake/GHDropMenuDemo/blob/master/README.md)
 ### 环境
 
 ```
